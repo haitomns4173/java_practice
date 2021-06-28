@@ -1,9 +1,6 @@
-class HelloWorld 
-{
+public class hello {
     public static void main(String[] args) 
     {
-        int a = 9, b = 7, sum;
-        sum = a + b;
-        System.out.println(sum); 
+        System.out.println("Java is better than C and C++"); 
     }
 }
